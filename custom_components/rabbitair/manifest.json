@@ -1,6 +1,6 @@
 {
   "domain": "rabbitair",
-  "name": "Rabbit Air",
+  "name": "rabbitair",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/rabbitair",
   "requirements": ["python-rabbitair==0.0.8"],
